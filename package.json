@@ -1,0 +1,13 @@
+{
+  "name": "reactxp-firebase-authentication",
+  "version": "0.0.1",
+  "description": "Plugin for ReactXP that provides support for Firebase Authentication for web, Android, and iOS",
+  "author": "Andrew Perdec <aperdec@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+  },
+  "dependencies": {
+    "firebase": "^4.10.1",
+    "react-native-firebase": "^3.3.0"
+  }
+}
